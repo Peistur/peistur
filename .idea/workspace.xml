@@ -26,7 +26,7 @@
       <file leaf-file-name="routes.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="16" selection-start="650" selection-end="650" vertical-scroll-proportion="0.5063001" vertical-offset="0" max-vertical-offset="873">
+            <state line="26" column="14" selection-start="648" selection-end="648" vertical-scroll-proportion="0.5063001" vertical-offset="0" max-vertical-offset="873">
               <folding>
                 <element signature="e#7#392#0" expanded="true" />
               </folding>
@@ -420,7 +420,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="650" selection-end="650" vertical-scroll-proportion="0.5063001" vertical-offset="0" max-vertical-offset="873">
+        <state line="26" column="14" selection-start="648" selection-end="648" vertical-scroll-proportion="0.5063001" vertical-offset="0" max-vertical-offset="873">
           <folding>
             <element signature="e#7#392#0" expanded="true" />
           </folding>
