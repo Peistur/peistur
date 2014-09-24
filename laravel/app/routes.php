@@ -24,4 +24,5 @@ Route::get('users', function()
     $users = User::where('name','victor')->take(10)->get();
 
     return View::make('users')->with('users', $users);
+    die('test');
 });
