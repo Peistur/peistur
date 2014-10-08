@@ -11,6 +11,8 @@
 |
 */
 
+Route::get('gallery', 'GalleryController@index');
+
 Route::get('/', function()
 {
 	return View::make('hello');
